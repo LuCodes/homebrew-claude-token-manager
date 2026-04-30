@@ -1,6 +1,6 @@
 cask "claude-token-manager" do
-  version "3.1.3"
-  sha256 "642e075a42b950ac250c9dc07d03202a876245231a54574af6baaba295a95f67"
+  version "3.1.4"
+  sha256 "c66880fd9617c92e851b814fd0d6b75be38f41d26844e7efe551c023adff446c"
 
   url "https://github.com/LuCodes/claude-token-manager/releases/download/v#{version}/ClaudeTokenManager.zip"
   name "Claude Token Manager"
